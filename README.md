@@ -99,3 +99,27 @@ Vertex 7: X: 31,129755     Y: -7,339809     Z: -62,025391
 Vertex 8: X: 20,729977     Y: -8,388353     Z: -65,474060
 Vertex 9: X: 10,040225     Y: -9,436896     Z: -67,224236
 ```
+
+Then these coordinates must be connected so that it looks like this:
+
+```
+Face list:
+Face 0:    A:0 B:1 C:42 AB:1 BC:1 CA:0
+Smoothing: 1 
+Face 1:    A:0 B:42 C:41 AB:0 BC:1 CA:1
+Smoothing: 1 
+Face 2:    A:1 B:2 C:43 AB:1 BC:1 CA:0
+Smoothing: 12 
+Face 3:    A:1 B:43 C:42 AB:0 BC:1 CA:1
+Smoothing: 12 
+Face 4:    A:2 B:3 C:44 AB:1 BC:1 CA:0
+Smoothing: 2 
+Face 5:    A:2 B:44 C:43 AB:0 BC:1 CA:1
+Smoothing: 2 
+Face 6:    A:3 B:4 C:45 AB:1 BC:1 CA:0
+Smoothing: 2 
+Face 7:    A:3 B:45 C:44 AB:0 BC:1 CA:1
+Smoothing: 2 
+Face 8:    A:4 B:5 C:46 AB:1 BC:1 CA:0
+Smoothing: 2
+```
