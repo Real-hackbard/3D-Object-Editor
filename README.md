@@ -30,3 +30,56 @@ The editor can edit graphics in three different ways:
 
 To create an object yourself, vertex points must be created in space, which then need to be connected to each other. The coordinates of a vertex point are defined in X–Y–Z. In the file, the first line specifies the number of vertex points in space. The following numbers indicate where in space the vertex point is located and to which points it should connect.
 
+For a simple square, the file would look like this:
+```
+8
+-50
+-50
+-50
+50
+-50
+-50
+50
+-50
+50
+-50
+-50
+50
+-50
+50
+50
+50
+50
+50
+50
+50
+-50
+-50
+50
+-50
+12
+0
+1
+1
+2
+2
+3
+0
+3
+4
+5
+5
+6
+6
+7
+0
+7
+1
+6
+2
+5
+3
+4
+4
+7
+```
