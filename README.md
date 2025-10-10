@@ -28,5 +28,5 @@ The editor can edit graphics in three different ways:
 * By setting vertex points with the mouse
 * By generating random objects
 
-
+To create an object yourself, vertex points must be created in space, which then need to be connected to each other. The coordinates of a vertex point are defined in X–Y–Z. In the file, the first line specifies the number of vertex points in space. The following numbers indicate where in space the vertex point is located and to which points it should connect.
 
