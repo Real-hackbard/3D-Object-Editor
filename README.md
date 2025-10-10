@@ -145,6 +145,9 @@ From the point of view of graph theory, vertices are treated as featureless and 
 
 * Example network with 8 vertices (of which one is isolated) and 10 edges.  
 
+<img width="400" height="245" alt="Small_Network" src="https://github.com/user-attachments/assets/8a56f279-caa5-460a-89be-9e35d73c2047" />
+
+
 </br>
 
 The two vertices forming an edge are said to be the endpoints of this edge, and the edge is said to be incident to the vertices. A vertex w is said to be adjacent to another vertex v if the graph contains an edge (v,w). The neighborhood of a vertex v is an [induced subgraph](https://en.wikipedia.org/wiki/Induced_subgraph) of the graph, formed by all vertices adjacent to v.
