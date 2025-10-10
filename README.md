@@ -83,3 +83,19 @@ For a simple square, the file would look like this:
 4
 7
 ```
+
+These coordinates work, but they are only a rough estimate. For a very precise specification, such as placing vertex points in space, the coordinates must be specified in decimal numbers, which then look like this:
+
+```
+Vertex list:
+Vertex 0: X: 74,944389     Y: -0,000000     Z: 0,379579
+Vertex 1: X: 73,227165     Y: -1,048544     Z: -11,324133
+Vertex 2: X: 69,729393     Y: -2,097089     Z: -22,493649
+Vertex 3: X: 64,575188     Y: -3,145633     Z: -32,863060
+Vertex 4: X: 57,927582     Y: -4,194177     Z: -42,191998
+Vertex 5: X: 49,983578     Y: -5,242721     Z: -50,271168
+Vertex 6: X: 40,968517     Y: -6,291265     Z: -56,927029
+Vertex 7: X: 31,129755     Y: -7,339809     Z: -62,025391
+Vertex 8: X: 20,729977     Y: -8,388353     Z: -65,474060
+Vertex 9: X: 10,040225     Y: -9,436896     Z: -67,224236
+```
