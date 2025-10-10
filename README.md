@@ -144,7 +144,6 @@ In [discrete mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics), a
 From the point of view of graph theory, vertices are treated as featureless and indivisible [objects](https://en.wikipedia.org/wiki/Mathematical_object), although they may have additional structure depending on the application from which the graph arises; for instance, a [semantic network](https://en.wikipedia.org/wiki/Semantic_network) is a graph in which the vertices represent concepts or classes of objects.
 
 * Example network with 8 vertices (of which one is isolated) and 10 edges.  
-<img width="217" height="133" alt="Small_Network" src="https://github.com/user-attachments/assets/4430ff48-14a7-46c0-afb0-d20e4efb693c" />
 
 </br>
 
