@@ -22,6 +22,12 @@ The OBJ file format is a simple data-format that represents 3D geometry alone â€
 
 </br>
 
+### Features:
+* Create Objects
+* Export Objects
+* Export Bitmap
+* Build Bitmap Frames
+
 ### Create Object:
 The editor can edit graphics in three different ways:
 * By entering coordinates
