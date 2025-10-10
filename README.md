@@ -130,7 +130,6 @@ In [discrete mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics), a
 
 * A graph with 6 vertices and 7 edges where the vertex number 6 on the far-left is a leaf vertex or a pendant vertex  
 </br>
-![6n-graf](https://github.com/user-attachments/assets/6480bdc9-12b4-41cc-be61-2afdbfdb25f3)
 
 
 </br>
