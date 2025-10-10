@@ -123,3 +123,14 @@ Smoothing: 2
 Face 8:    A:4 B:5 C:46 AB:1 BC:1 CA:0
 Smoothing: 2
 ```
+
+</br>
+
+In [discrete mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics), and more specifically in [graph theory](https://en.wikipedia.org/wiki/Graph_theory), a vertex (plural vertices) or node is the fundamental unit of which graphs are formed: an [undirected graph](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)#Graph) consists of a set of vertices and a set of [edges](https://en.wikipedia.org/wiki/Glossary_of_graph_theory#edge) (unordered pairs of vertices), while a [directed graph](https://en.wikipedia.org/wiki/Directed_graph) consists of a set of vertices and a set of arcs (ordered pairs of vertices). In a diagram of a graph, a vertex is usually represented by a circle with a label, and an edge is represented by a line or arrow extending from one vertex to another.
+
+From the point of view of graph theory, vertices are treated as featureless and indivisible [objects](https://en.wikipedia.org/wiki/Mathematical_object), although they may have additional structure depending on the application from which the graph arises; for instance, a [semantic network](https://en.wikipedia.org/wiki/Semantic_network) is a graph in which the vertices represent concepts or classes of objects.
+
+The two vertices forming an edge are said to be the endpoints of this edge, and the edge is said to be incident to the vertices. A vertex w is said to be adjacent to another vertex v if the graph contains an edge (v,w). The neighborhood of a vertex v is an [induced subgraph](https://en.wikipedia.org/wiki/Induced_subgraph) of the graph, formed by all vertices adjacent to v.
+
+
+
