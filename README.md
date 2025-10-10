@@ -128,8 +128,9 @@ Smoothing: 2
 
 In [discrete mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics), and more specifically in [graph theory](https://en.wikipedia.org/wiki/Graph_theory), a vertex (plural vertices) or node is the fundamental unit of which graphs are formed: an [undirected graph](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)#Graph) consists of a set of vertices and a set of [edges](https://en.wikipedia.org/wiki/Glossary_of_graph_theory#edge) (unordered pairs of vertices), while a [directed graph](https://en.wikipedia.org/wiki/Directed_graph) consists of a set of vertices and a set of arcs (ordered pairs of vertices). In a diagram of a graph, a vertex is usually represented by a circle with a label, and an edge is represented by a line or arrow extending from one vertex to another.
 
-* A graph with 6 vertices and 7 edges where the vertex number 6 on the far-left is a leaf vertex or a pendant vertex
-[6n-graf](https://github.com/user-attachments/assets/435df112-b9b2-40d8-b489-8d1f063ecc0b)
+* A graph with 6 vertices and 7 edges where the vertex number 6 on the far-left is a leaf vertex or a pendant vertex  
+![6n-graf](https://github.com/user-attachments/assets/6480bdc9-12b4-41cc-be61-2afdbfdb25f3)
+
 
 </br>
 
