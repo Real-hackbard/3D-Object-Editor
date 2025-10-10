@@ -131,6 +131,7 @@ In [discrete mathematics](https://en.wikipedia.org/wiki/Discrete_mathematics), a
 * A graph with 6 vertices and 7 edges where the vertex number 6 on the far-left is a leaf vertex or a pendant vertex  
 </br>
 
+![Points](https://github.com/user-attachments/assets/3a2e7c90-5fc7-4337-8d55-77bf65ba8260)
 
 </br>
 
