@@ -145,8 +145,7 @@ From the point of view of graph theory, vertices are treated as featureless and 
 
 * Example network with 8 vertices (of which one is isolated) and 10 edges.  
 
-<img width="400" height="245" alt="Small_Network" src="https://github.com/user-attachments/assets/8a56f279-caa5-460a-89be-9e35d73c2047" />
-
+<img width="400" height="245" alt="Small_Network" src="https://github.com/user-attachments/assets/8a56f279-caa5-460a-89be-9e35d73c2047" />  
 
 </br>
 
