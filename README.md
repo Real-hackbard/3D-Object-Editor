@@ -22,7 +22,11 @@ The OBJ file format is a simple data-format that represents 3D geometry alone â€
 
 </br>
 
-
+### Create Object:
+The editor can edit graphics in three different ways:
+* By entering coordinates
+* By setting vertex points with the mouse
+* By generating random objects
 
 
 
